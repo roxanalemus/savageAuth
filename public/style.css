@@ -1,0 +1,13 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: rgba(246, 163, 161, 1);
+}
+
+div{
+background-color: rgba(191, 208, 183, 1);
+}
+
+img{
+  height: 200px;
+}
